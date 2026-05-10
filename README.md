@@ -16,8 +16,6 @@
 - Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
 
-![Visitors](https://komarev.com/ghpvc/?username=Pauloisc&style=flat-square&color=960018&label=Visitantes)
-
 ## Tecnologias & Ferramentas
 
 <div align="center">
