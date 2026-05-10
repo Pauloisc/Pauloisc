@@ -2,7 +2,7 @@
 <div align="center">
 <!-- 🔁 Substitua o link abaixo por um GIF do Black Clover que você gostar -->
 <!-- Sugestão: busque "asta black clover" em https://tenor.com e copie o link direto do GIF -->
-<img src="[https://media1.tenor.com/m/IfHEiMk01IIAAAAC/black-clover-asta.gif](https://www.pinterest.com/ideas/asta-gif/925988274797/)" width="480" alt="Asta - Black Clover" style="border-radius: 12px;"/>
+<img src="https://media.tenor.com/oV49z15-R-0AAAAC/black-clover-black-clover-movie.gif?fbclid=IwAR2daMtddWO741saUSau7TeEbz7xcfGFjuJeBT8sC-sKFw7jgyX7JRho1m0_aem_AeTk7kN6WSPEn1E7NBEFBCp9TwECNMLgjOG661__5J2HbxBTte45B358sleoq0plSTo" width="480" alt="Asta - Black Clover" style="border-radius: 12px;"/>
 <br/><br/>
 
 </div>
