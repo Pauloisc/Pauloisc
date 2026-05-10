@@ -24,13 +24,6 @@
 
 </div>
 
-## 📊 Minhas Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats-pauloisc.vercel.app/api?username=Pauloisc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&rank_icon=github"/>
-<img height="175em" src="https://github-readme-stats-pauloisc.vercel.app/api/top-langs/?username=Pauloisc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=cccccc"/>
-
 </div>
 
 <div align="center">
