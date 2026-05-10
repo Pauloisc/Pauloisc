@@ -4,11 +4,19 @@
 <img src="https://github.com/Pauloisc/Pauloisc/blob/main/Asta%20Banner%20(1).png?raw=true" width="100%" alt="Asta - Black Clover"/>
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&pause=1200&color=960018&center=true&vCenter=true&width=500&lines=Estudante+de+SI+na+UFS;Nunca+Desistir!+⚔️;Always+Improving...)](https://github.com/Pauloisc)
+
+</div>
+
 ## Sobre mim
 - Estudante de Sistemas de Informação pela UFS
 - Apaixonado por desenvolvimento e tecnologia
 - Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
+
+![Visitors](https://komarev.com/ghpvc/?username=Pauloisc&style=flat-square&color=960018&label=Visitantes)
 
 ## Tecnologias & Ferramentas
 
@@ -18,6 +26,7 @@
 
 </div>
 
+> *"Eu não tenho magia — mas tenho algo que você nunca vai ter. Nunca desisto."*
+> — **Asta, Black Clover**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=120&section=footer"/>
-
-
