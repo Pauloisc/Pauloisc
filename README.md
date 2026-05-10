@@ -20,6 +20,8 @@
 
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark)](https://skillicons.dev)
+
 </div>
 
 # 📊 Minhas Stats
