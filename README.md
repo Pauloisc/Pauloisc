@@ -16,7 +16,7 @@
 
 <br clear="right"/>
 
-# 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -24,14 +24,17 @@
 
 </div>
 
-# 📊 Minhas Stats
+## 📊 Minhas Stats
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pauloisc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&rank_icon=github"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloisc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=cccccc"/>
+
+<img height="175em" src="https://github-readme-stats-pauloisc.vercel.app/api?username=Pauloisc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats-pauloisc.vercel.app/api/top-langs/?username=Pauloisc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=cccccc"/>
+
 </div>
+
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Pauloisc&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=c9a84c&fire=ffb300&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=888888"/>
-</div>
 
-<div align="center">
+</div>
