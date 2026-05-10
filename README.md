@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a1007,100:c9a84c&height=220&section=header&text=Never%20Give%20Up!%20⚔️&fontSize=48&fontColor=c9a84c&animation=twinkling&fontAlignY=38&desc=Paulo%20Ítalo%20•%20Pauloisc&descColor=dddddd&descSize=20&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a1007,100:c9a84c&height=220&section=header&text=Never%20Give%20Up!%20&fontSize=48&fontColor=c9a84c&animation=twinkling&fontAlignY=38&desc=Paulo%20Ítalo%20•%20Pauloisc&descColor=dddddd&descSize=20&descAlignY=58" />
 <div align="center">
 <!-- 🔁 Substitua o link abaixo por um GIF do Black Clover que você gostar -->
 <!-- Sugestão: busque "asta black clover" em https://tenor.com e copie o link direto do GIF -->
