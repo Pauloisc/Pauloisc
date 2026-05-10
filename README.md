@@ -18,10 +18,4 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pauloisc&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=c9a84c&fire=ffb300&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=888888"/>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=120&section=footer"/>
