@@ -4,15 +4,11 @@
 <img src="https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" width="100%" alt="Asta - Black Clover"/>
 </div>
 
-<img align="right" height="180" src="https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" alt="Asta"/>
-
 ## Sobre mim
 - Estudante de Sistemas de Informação pela UFS
 - Apaixonado por desenvolvimento e tecnologia
 - Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
-
-<br clear="right"/>
 
 ## Tecnologias & Ferramentas
 
