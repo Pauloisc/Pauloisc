@@ -11,10 +11,10 @@
 
 # 🧙‍♂️ Sobre mim
 
-🎓 Estudando Sistemas de Informação na UFS
-💻 Apaixonado por desenvolvimento e tecnologia
-📍 Sergipe, Brasil
-🌱 Sempre aprendendo algo novo
+- 🎓 Estudando Sistemas de Informação na UFS
+- 💻 Apaixonado por desenvolvimento e tecnologia
+- 📍 Sergipe, Brasil
+- 🌱 Sempre aprendendo algo novo
 
 <br clear="right"/>
 
