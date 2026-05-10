@@ -18,9 +18,6 @@
 
 </div>
 
-### ✦ "Eu não tenho magia — mas tenho algo que você nunca vai ter. Nunca desisto." ✦
-— Asta, Black Clover
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=120&section=footer"/>
 
 
