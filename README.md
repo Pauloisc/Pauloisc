@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=220&section=header&text=Never%20Give%20Up!%20&fontSize=48&fontColor=960018&animation=twinkling&fontAlignY=38&desc=Pauloisc&descColor=dddddd&descSize=20&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=220&section=header&text=Nunca%20Desistir%20Up!%20&fontSize=48&fontColor=960018&animation=twinkling&fontAlignY=38&desc=Pauloisc&descColor=dddddd&descSize=20&descAlignY=58" />
 
 <div align="center">
 <img src="https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" width="100%" alt="Asta - Black Clover"/>
