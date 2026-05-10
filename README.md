@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" height="180" src="https://media1.tenor.com/m/IfHEiMk01IIAAAAC/black-clover-asta.gif" alt="Asta"/>
+<img align="right" height="180" src="https://media1.tenor.com/m/IfHEiMk01IIAAAAC/black-clover-asta.gif](https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" alt="Asta"/>
 
 # 🧙‍♂️ Sobre mim
 
