@@ -7,16 +7,16 @@
 
 <img align="right" height="180" src="https://media1.tenor.com/m/IfHEiMk01IIAAAAC/black-clover-asta.gif](https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" alt="Asta"/>
 
-# 🧙‍♂️ Sobre mim
+# Sobre mim
 
-- 🎓 Estudando Sistemas de Informação na UFS
-- 💻 Apaixonado por desenvolvimento e tecnologia
-- 📍 Sergipe, Brasil
-- 🌱 Sempre aprendendo algo novo
+- Estudante de Sistemas de Informação pela UFS
+- Apaixonado por desenvolvimento e tecnologia
+- Sergipe, Brasil
+- Amante do aprendizado e ensino de programação
 
 <br clear="right"/>
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
