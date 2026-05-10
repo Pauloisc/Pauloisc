@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/oV49z15-R-0AAAAC/black-clover-black-clover-movie.gif" width="480" alt="Asta - Black Clover" style="border-radius: 12px;"/>
-
+<img src="https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" width="100%" alt="Asta - Black Clover"/>
 </div>
 
 <img align="right" height="180" src="https://media1.tenor.com/m/IfHEiMk01IIAAAAC/black-clover-asta.gif](https://github.com/Pauloisc/Pauloisc/blob/main/asta_banner.gif?raw=true" alt="Asta"/>
