@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=20&pause=1200&color=960018&center=true&vCenter=true&width=500&lines=Eu+vou+escalar+até+o+topo!;Minha+magia+é+nunca+desistir!)](https://github.com/Pauloisc)
 
 </div>
