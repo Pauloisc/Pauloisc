@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&pause=1200&color=960018&center=true&vCenter=true&width=500&lines=Eu+vou+escalar+até+o+topo!+Porque+nossos+sonhos+são+feitos+em+cima+daquilo+que+realizamos.S;Nunca+Desistir!;Always+Improving...)](https://github.com/Pauloisc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&pause=1200&color=960018&center=true&vCenter=true&width=500&lines=Eu+vou+escalar+até+o+topo!;Nunca+Desistir!)](https://github.com/Pauloisc)
 
 </div>
 
