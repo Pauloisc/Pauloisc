@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=220&section=header&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:0d0d0d,100:0d0d0d&height=120&section=header"/>
 
 <div align="center">
 <img src="https://github.com/Pauloisc/Pauloisc/blob/main/Asta%20Banner%20(1).png?raw=true" width="100%" alt="Asta - Black Clover"/>
