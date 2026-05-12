@@ -13,8 +13,8 @@
 ## Sobre mim
 - Estudante de Sistemas de Informação pela **UFS**
 - Apaixonado por desenvolvimento e tecnologia
-- 📍 Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
+- 📍 Sergipe, Brasil
 
 ## 🌐 Línguas
 - **Português:** Nativo
