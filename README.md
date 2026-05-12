@@ -15,6 +15,7 @@
 - Apaixonado por desenvolvimento e tecnologia
 - Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
+
   
 - 🇧🇷 **Português:** Nativo (Native)
 - 🇺🇸 **Inglês:** B1 (Intermediate)
