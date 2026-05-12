@@ -11,20 +11,16 @@
 </div>
 
 ## Sobre mim
-- Estudante de Sistemas de Informação pela UFS
+- Estudante de Sistemas de Informação pela **UFS**
 - Apaixonado por desenvolvimento e tecnologia
-- Sergipe, Brasil
+- 📍 Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
 
-</div>
+## 🌐 Línguas
+- **Português:** Nativo
+- **Inglês:** B1 (Intermediate)
 
-## Línguas
-- 🇧🇷 **Português:** Nativo (Native)
-- 🇺🇸 **Inglês:** B1 (Intermediate)
-
-</div>
-
-## Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
