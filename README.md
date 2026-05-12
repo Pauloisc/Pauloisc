@@ -16,7 +16,7 @@
 - Sergipe, Brasil
 - Amante do aprendizado e ensino de programação
 
-<div align="center">
+</div>
 
 ## Línguas
 - 🇧🇷 **Português:** Nativo (Native)
