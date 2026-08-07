@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,60:FFFFFF,100:FFFFFF&height=120&section=header"/>
 
-<div align="center">
-
-</div>
-
 ## Sobre mim
 - Estudante de Sistemas de Informação pela **UFS**
 - Apaixonado por desenvolvimento e tecnologia
