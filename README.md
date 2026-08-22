@@ -6,11 +6,11 @@
 - Amante do aprendizado e ensino de programação
 - 📍 Sergipe, Brasil
 
-## 🌐 Línguas
+## Línguas
 - **Português:** Nativo
 - **Inglês:** B1 (Intermediate)
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
